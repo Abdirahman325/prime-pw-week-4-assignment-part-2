@@ -1,7 +1,11 @@
 header{
     background-color: blueviolet;
 }
-div{
+h2{
     background-color: brown;
     color: darkcyan;
+}
+h3{
+ background-color: black;
+ color: beige;
 }
